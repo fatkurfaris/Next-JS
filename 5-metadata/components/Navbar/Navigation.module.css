@@ -1,0 +1,35 @@
+.navbar {
+    background: #000;
+
+}
+
+.NavText {
+    /* color: black; */
+    padding-top: 8px;
+    color: solid black;
+
+}
+
+.NavText:hover {
+    /* color: black; */
+    color: white;
+
+}
+
+.NavLink {
+    color: black;
+    background-color: black;
+}
+
+/* 
+.NavText:hover {
+    color: black;
+    padding-top: 5px;
+    text-decoration: none;
+} */
+
+.text1 {
+    text-decoration: none;
+    background-color: black;
+    color: black;
+}
