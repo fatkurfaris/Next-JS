@@ -1,7 +1,11 @@
+import Layout from "../../components/Layout";
+
 export default function Blog() {
     return (
-        <div>
-            <h1>Ini halaman BLOG</h1>
-        </div>
+        <>
+            <Layout pageTitle="Blog Page">
+                Blog Page
+            </Layout>
+        </>
     )
 }
