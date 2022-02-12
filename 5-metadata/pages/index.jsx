@@ -18,7 +18,7 @@ export default function Home() {
         <meta name="description" content="Website NextJS Basic"></meta>
       </Head> */}
       <Layout pageTitle="Home Page">
-        <Image />
+        {/* <Image /> */}
         <h1>Welcome Faris</h1>
       </Layout>
 
