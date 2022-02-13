@@ -1,0 +1,20 @@
+.navbarBack {
+    background-color: white;
+    /* box-shadow: ; */
+
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 70px;
+}
+
+.NavContent {
+    display: flex;
+    gap: 3rem;
+    height: 70px;
+    align-items: center;
+
+}
+
+.NavLeft {
+    margin-left: 20px;
+}
